@@ -1,4 +1,3 @@
-Jonathan Joseph P. Pena Jr.
-Jayjay
-2011-20601
-
+<name>
+<nickname>
+<student number>
